@@ -1,0 +1,143 @@
+header, section, footer{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	height: 60px;
+}
+
+#logo_1{
+	width: 100px;
+	height: 60px;
+	float: left;
+}
+
+#logo_1 a img{
+	margin-left: 25px;
+}
+
+#post_logo_1{
+	width: 145px; 
+	height: 60px;
+	float: left;
+	background-color: #eb9f23; 
+	border-top-left-radius: 30px;
+	border-bottom-left-radius: 30px;
+}
+
+#botonera{
+	width: 470px;
+	height: 60px;
+	float: left;
+}
+
+#botonera ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#botonera ul li{
+	display: inline;
+}
+
+#botonera ul li a{
+	display: inline-block;
+	text-decoration: none;
+	color: #000000;
+	padding: 22px 22px;
+}
+
+#botonera ul li a:hover {
+	background-color: #eb9f23;
+	color: #ffffff;
+	height: 16px;
+	margin-right: 0px;
+}
+
+#pre_logo_2{
+	width: 145px;
+	height: 60px;
+	background-color: #eb9f23;
+	float: left;
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px; 
+}
+
+#logo_2{
+	width: 100px;
+	height: 60px;
+	float: right;
+}
+
+#logo_2 a img{
+	margin-left: 25px;
+}
+
+section{
+	height:1005px;
+}
+
+body{
+	background-color: #cccccc
+}
+
+#Merienda{
+	width: 470px;
+	height: 70px;
+	background-color: #eb9f23;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	margin-top: 0px;
+}
+
+#Merienda h1{
+	font-family: Berlin Sans FB;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 0px; 
+}
+
+#imagencolumna{
+	width: 960px;
+	height: 177.95px;
+	float: left;
+}
+
+#imagencolumna #recuadro{
+	width: 240px;
+	height: 177.95px;
+	float: left;
+}
+
+#imagencolumna #recuadro img{
+	width: 100%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+#imagencolumna #cafe{
+	width: 240px;
+	height: 177.95px;
+	float: right;
+	margin-top: 0px;
+}
+
+#imagencolumna #cafe img{
+	width: 100%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+#poducto1{
+	width: 480px;
+	height: 60px;
+	background-color: #000;
+	margin: 0;
+}
