@@ -29,6 +29,8 @@ header{
 	border-top-left-radius: 30px ;
 	border-bottom-left-radius: 30px;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#eb9f23), to(#2c2c2c));
+	background: linear-gradient(50%, #eb9f23 , #2c2c2c)
+	background: -moz-linear-gradient(50%, #eb9f23 , #2c2c2c);
 }
 
 #botonera{
@@ -57,6 +59,8 @@ header{
 
 #botonera ul li a:hover {
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#eb9f23), to(#2c2c2c));
+	background: radial-gradient(50%, #eb9f23 , #2c2c2c)
+	background: -moz-radial-gradient(50%, #eb9f23 , #2c2c2c);
 	color: #ffffff;
 	height: 16px;
 	margin-right: 0px;
@@ -70,6 +74,8 @@ header{
 	border-top-right-radius: 30px; 
 	margin-left: 0;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#eb9f23), to(#2c2c2c));
+	background: linear-gradient(50%, #eb9f23 , #2c2c2c)
+	background: -moz-linear-gradient(50%, #eb9f23 , #2c2c2c);
 }
 
 #logo_2{
