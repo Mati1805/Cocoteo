@@ -31,6 +31,9 @@ header{
 	background: -moz-linear-gradient(25%, #ffffff , #eb9f23);
 	border-top-left-radius: 30px;
 	border-bottom-left-radius: 30px;
+	text-align: center;
+	color: #000;
+	font-family: Verdana;
 }
 
 #botonera{
@@ -283,6 +286,10 @@ footer{
 	font-size: 30px;
 	margin-top: 0px;
 	text-align: center;
+}
+
+h4{
+	color: #ffffff;
 }
 
 #redes{
